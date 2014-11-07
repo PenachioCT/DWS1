@@ -1,0 +1,79 @@
+@font-face {
+    font-family: DeliciousRoman;
+    src: url(http://www.font-face.com/fonts/delicious/Delicious-Roman.otf);
+}
+
+body {
+	font-family: DeliciousRoman, Helvetica, Arial, sans-serif;
+	background-color: #FFFFFF;	
+}
+
+#page {
+	width:1000px;
+	margin: 0 auto;
+	border: 6px double #000000;
+	border-radius: 25px;
+	padding: 20px;
+	background-color: #00B3FF;
+}
+
+#navigation {
+	text-align: center;
+	word-spacing: 10px;
+}
+
+#history {
+	color: #FFFFFF;
+	text-indent: 50px;
+}
+
+#platforms, #genres {
+	width: 975px;
+    padding: 5px;
+    border: 1px solid #000000;
+    margin: 2px;
+	text-indent:  50px;
+	background-color: #C3E8F7;
+	opacity: .7;
+	box-shadow: 2px 2px 2px #000000;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1, h2 {
+color: #F2A474;
+	text-shadow: 2px 2px #000000;	
+}
+
+h3 {
+	font-size: medium;
+	font-weight: 300;
+	font-style: italic;
+}
+
+ol {
+	list-style-type: lower-alpha;
+}
+
+g1, g2, g3, g4, g5 {
+	border:  100px solid #000000;
+}
+
+a:link {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+a:visited {
+	color:  #000000;
+}
+
+a:hover {
+	color: #FF00FF;
+}
+
+a:active {
+	color: #0000FF;
+}
