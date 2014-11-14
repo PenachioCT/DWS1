@@ -37,7 +37,7 @@ body {
 }
 
 #platforms_title {
-	background-image: url("../images/joystick.png");
+	background-image: url("../images/Joystick.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	height: 30px;
@@ -90,7 +90,7 @@ body {
 	margin-right: auto;
 	text-align: center;
 	width: 808px;
-	background-image:  url("../images/games.png");
+	background-image:  url("../images/Games.png");
 	background-repeat: repeat;
 	background-position: center top;
 	height: 29px;
