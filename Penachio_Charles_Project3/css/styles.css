@@ -10,7 +10,7 @@ body {
 }
 
 #content {
-	width:1000px;
+	width:85%;
 	margin: 0 auto;
 	border: 6px double #000000;
 	border-radius: 25px;
@@ -23,7 +23,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 5px;
-	width: 600px;	
+	width: 60%;	
 	text-align: center;
 	word-spacing: 10px;
 	border-top: 1px solid #000000;
@@ -31,9 +31,9 @@ body {
 }
 
 #history {
-	width: 1000px;
+	width: 85%;
 	padding: 5px;
-	margin: 10px;
+	margin: 1.0%;
 }
 
 #platforms_title {
@@ -48,9 +48,9 @@ body {
 
 #platforms {
 	float: left;
-	width: 565px;
+	width: 56.5%;
 	padding: 5px;
-	margin: 10px;
+	margin: 1.0%;
 }
 
 #genres_title {
@@ -65,9 +65,9 @@ body {
 
 #genres {
 	float: left;
-	width: 565px;
+	width: 56.5%;
 	padding: 5px;
-	margin: 10px;
+	margin: 1.0%;
 }
 
 #gallery_title {
@@ -76,9 +76,9 @@ body {
 
 #gallery {	
 	float: right;
-	width: 365px;
+	width: 36.5%;
 	padding: 5px;
-	margin: 10px;
+	margin: 1.0%;
 	background:  linear-gradient(#336666, #66cccc);
 	border: 1px solid #000000;
 	box-shadow: 2px 2px 2px 2px #000000;
@@ -89,7 +89,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	width: 808px;
+	width: 80.8%;
 	background-image:  url("../images/Games.png");
 	background-repeat: repeat;
 	background-position: center top;
@@ -121,6 +121,11 @@ ul {
 
 ol {
 	list-style-type: lower-alpha;
+}
+
+img {
+	width: 100%;
+	margin: 1.0%
 }
 
 a:link {
